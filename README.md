@@ -65,14 +65,6 @@ Run the Jupyter Notebook:
 jupyter notebook
 ```
 
----
-
-##  Output
-
-Add screenshots or output images here.
-
----
-
 ##  Learning Outcome
 
 This project helped in understanding:
