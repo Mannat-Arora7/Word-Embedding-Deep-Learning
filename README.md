@@ -53,18 +53,6 @@ that can be used for machine learning and deep learning applications.
 
 ---
 
-##  How to Run
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
 ##  Learning Outcome
 
 This project helped in understanding:
