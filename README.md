@@ -85,8 +85,13 @@ This project helped in understanding:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Mannat Arora  
 Data Science & AI Student
+
+
+
+
+
 
